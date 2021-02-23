@@ -1,6 +1,5 @@
 Flask
 twilio
-requests
 
 # development
 flake8
