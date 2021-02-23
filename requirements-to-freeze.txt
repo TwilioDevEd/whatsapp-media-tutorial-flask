@@ -1,0 +1,7 @@
+Flask
+twilio
+requests
+
+# development
+flake8
+black
