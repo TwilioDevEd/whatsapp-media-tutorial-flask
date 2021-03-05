@@ -4,6 +4,8 @@
 
 # Receive, Download, and Reply with media in WhatsApp Messages. Powered by Twilio - Python/Flask
 
+![](https://github.com/TwilioDevEd/whatsapp-media-tutorial-flask/actions/workflows/flask.yml/badge.svg)
+
 Use Twilio to receive WhatsApp media messages. For a step-by-step tutorial see
 the [Twilio docs](https://www.twilio.com/docs/sms/whatsapp/tutorial/send-and-receive-media-messages-whatsapp-python).
 
@@ -75,5 +77,5 @@ To run the app locally:
 ## Meta
 
 * No warranty expressed or implied. Software is as is. Diggity.
-* [MIT License](http://www.opensource.org/licenses/mit-license.html)
+* [MIT License](LICENSE)
 * Lovingly crafted by Twilio Developer Education.
